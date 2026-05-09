@@ -9,7 +9,7 @@ This project is a simple and interactive chatbot developed using Python as part 
 - Joke responses
 - User-friendly interface with emojis
 
-## 🛠 Technologies Used
+## 🛠 Technologies Useds
 - Python
 
 ## 📚 Concepts Used
@@ -23,12 +23,13 @@ This project is a simple and interactive chatbot developed using Python as part 
 ```bash
 python basic_chatbot.py
 
-📌 Sample Commands
+## 📌 Sample Commands
 hello
 how are you
 tell me a joke
 motivate me
 bye
-🎯 Outcome
+
+##🎯 Outcome
 
 This project helped in understanding Python fundamentals and building interactive command-line applications.
