@@ -1,6 +1,3 @@
-# README for `Hangman_Game`
-
-```markdown id="4jlwm3"
 # 🎮 Hangman Game using Python
 
 This project is an interactive Hangman Game developed using Python as part of the CodeAlpha Python Programming Internship.
