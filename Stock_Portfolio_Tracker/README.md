@@ -24,3 +24,19 @@ This project is a smart stock portfolio tracker developed using Python as part o
 
 ```bash
 python stock_portfolio_tracker.py
+```
+
+## 📌 Available Stocks
+AAPL
+TSLA
+GOOG
+AMZN
+
+## 📂 Output File
+
+The project automatically saves portfolio details in:
+
+portfolio.txt
+## 🎯 Outcome
+
+This project helped in understanding dictionaries, calculations, loops, and file handling in Python.
