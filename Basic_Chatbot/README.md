@@ -25,12 +25,12 @@ python basic_chatbot.py
 ```
 
 ## 📌 Sample Commands
-hello
-how are you
-tell me a joke
-motivate me
+hello,
+how are you,
+tell me a joke,
+motivate me,
 bye
 
-##🎯 Outcome
+## 🎯 Outcome
 
 This project helped in understanding Python fundamentals and building interactive command-line applications.
