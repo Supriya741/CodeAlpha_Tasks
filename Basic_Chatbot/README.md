@@ -22,3 +22,13 @@ This project is a simple and interactive chatbot developed using Python as part 
 
 ```bash
 python basic_chatbot.py
+
+📌 Sample Commands
+hello
+how are you
+tell me a joke
+motivate me
+bye
+🎯 Outcome
+
+This project helped in understanding Python fundamentals and building interactive command-line applications.
