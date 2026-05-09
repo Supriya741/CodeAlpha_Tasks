@@ -23,3 +23,14 @@ This project is an interactive Hangman Game developed using Python as part of th
 
 ```bash
 python hangman_game.py
+```
+
+## 🎯 Game Rules
+Guess one letter at a time
+You have limited attempts
+Correct guesses reveal letters
+Wrong guesses reduce attempts
+
+## 🎯 Outcome
+
+This project helped in improving problem-solving skills and understanding Python game logic.
