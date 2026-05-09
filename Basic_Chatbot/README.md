@@ -22,6 +22,7 @@ This project is a simple and interactive chatbot developed using Python as part 
 
 ```bash
 python basic_chatbot.py
+```
 
 ## 📌 Sample Commands
 hello
